@@ -1,11 +1,7 @@
-<div style="text-align: center; font-size: 24px;">
-    <span style="font-weight: bold;">Hi there! I'm Yomiko!</span>
-</div>
+# Hi there! I'm Yomiko!
 
 ---
-<div style="text-align: center; font-size: 16px;">
-    <span style="font-weight: bold;">M.E student in Data Science | Kyoto Univ |</span>
-</div>
+## M.E student in Data Science | Kyoto Univ |
 
 ---
 
