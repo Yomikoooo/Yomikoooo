@@ -5,7 +5,7 @@
 
 ---
 
-#### About Me
+### About Me
 
 ---
 
@@ -17,14 +17,14 @@
 
  ❤️Hobbies: 👜**Fashion**, ⚽**Soccer**, 🏀**Basketball**, 🎮**Games**, 🎤**Music/Sing** 🎥Movie/TV series/Animation, 🇨🇳Chinese History <p>
 
-#### What I learned 
+### What I learned 
 ---
 
 - **Math**: Calculus, Linear Algebra, Probability Theory, Mathematical Statistics, Numerical Analysis, Optimization, etc.
 - **AI**: Machine Learning, Deep Learning, Reinforcement Learning, Computer Vision, Natural Language Processing, etc.
 - **CS**: Data Structure, Algorithm, Database, Operating System, Computer Network, Computer Architecture, etc.
 
-#### My Skills
+### My Skills
 ---
 - **Languages**: **Chinese**(Native), **Japanese**(N1), **English**(TOEFL 103)
 
