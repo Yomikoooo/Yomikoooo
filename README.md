@@ -1,7 +1,7 @@
-# <center>Hi there! I'm Yomiko! </center>
+# <p align="center">Hi there! I'm Yomiko! </p>
 
 ---
-## <center>M.E student in Data Science | Kyoto Univ. | <center>
+## <p align="center">M.E student in Data Science | Kyoto Univ. | </p>
 
 ---
 
